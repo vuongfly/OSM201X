@@ -1,0 +1,7 @@
+https://docs.google.com/document/d/1CB50JYysHSgxzfPC0wtehX2Z-u8_Wxa06b063kRJYCY/edit?tab=t.0
+vuongnvfx31745@funix.edu.vn
+Bài tập:
+Học viên truy cập vào link, tải folder này về: https://drive.google.com/drive/folders/1BpuklzrrxmmdzwhQPJacyl6S2avXzWcY?usp=sharing, bên trong folder có 2 file.
+Dùng lệnh diff để so sánh sự khác nhau giữa 2 file
+Dùng lệnh sdiff để so sánh 2 file.
+Dùng lệnh sdiff so sánh 2 file không phân biệt hoa thường.

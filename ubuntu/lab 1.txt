@@ -1,0 +1,3 @@
+gcc -c hello.c -o hello.o
+gcc -o program hello.o
+./program

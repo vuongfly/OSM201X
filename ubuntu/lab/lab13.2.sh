@@ -1,0 +1,3 @@
+sudo su
+whoami
+quit

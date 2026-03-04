@@ -1,0 +1,4 @@
+# Run every 1 minute
+# Write log: number of process to log.txt
+* * * * * ps aux | wc -l >> ~/Git/OSM201x/lab13/log.txt
+# * * * * * ps aux | wc -l >> $HOME/Git/OSM201x/lab13/log.txt
